@@ -48,7 +48,7 @@ Gaining experience in building robust backend systems using Spring Boot</li>
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1fjtZiwkYJmZNrAQb3vRj0_6ZtGeaoFFgUg40_pZOL3k/edit?usp=sharing](https://docs.google.com/document/d/1fjtZiwkYJmZNrAQb3vRj0_6ZtGeaoFFgUg40_pZOL3k/edit?usp=sharing)
 
-- ⚡ Fun fact **Fun fact I keep exploring the vast world of programming.**
+- ⚡ Fun fact **I keep exploring the vast world of programming.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
